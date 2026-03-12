@@ -1,9 +1,3 @@
-groups:
-  - name: finance
-    owner:
-      name: Finance Team
-      email: finance@example.com
-
 models:
   - name: fct_orders
     group: finance
